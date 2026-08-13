@@ -1,0 +1,32 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: aqua;
+}
+
+td {
+    background-color: aquamarine;
+}
+
+table {
+    padding: auto;
+}
+
+label { 
+display: inline-block; 
+width: 120px;        
+/* Aligns all labels */ 
+margin-bottom: 10px; 
+font-weight: bold; 
+} 
+
+button { 
+background-color: #4b0082;  /* Purple color */ 
+color: white; 
+padding: 8px 16px; 
+border: none; 
+border-radius: 5px; 
+cursor: pointer; 
+}
